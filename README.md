@@ -9,3 +9,7 @@ I'm a software engineer at [PT. SINAR RODA UTAMA]([https://woo-hoo.org](https://
 - Chat me on [Telegram](https://t.me/k4ilham)
 - Email me at [G-mail](mailto:mailham@gmail.com)
 - Youtu.be : [https://www.youtube.com/@k4ilham]
+
+  ### Github Stats
+
+[![Saiful Bahri's Github Stats](https://github-readme-stats.vercel.app/api?username=k4ilham&count_private=true&theme=default&show_icons=true)](https://github.com/k4ilham)
