@@ -1,6 +1,6 @@
 ### Hi there, my name Ilham Maulana 👋
 
-I'm a software engineer at [PT. SINAR RODA UTAMA]([https://woo-hoo.org](https://www.sinarrodautama.com/)) in Kebon jeruk, Special Region of Jakarta Barat, Indonesia 🌆
+I'm a software engineer at [InerCorp]([https://woo-hoo.org](https://www.inercorp.com/)) in Bogor, Jawa Barat, Indonesia 🌆
 
 - 🔭 I’m currently learn flutter and use it to build a software
 - 🧑‍💻 I’m looking to collaborate on open source projects
