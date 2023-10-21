@@ -10,6 +10,9 @@ I'm a software engineer at [InerCorp]([https://woo-hoo.org](https://www.inercorp
 - Email me at [G-mail](mailto:mailham@gmail.com)
 - Youtu.be : [https://www.youtube.com/@k4ilham]
 
-  ### Github Stats
+<div align="center">
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4ilham&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/k4ilham)
 
-[![Saiful Bahri's Github Stats](https://github-readme-stats.vercel.app/api?username=k4ilham&count_private=true&theme=default&show_icons=true)](https://github.com/k4ilham)
+ [![Tegar Pratama GitHub stats](https://github-readme-stats.vercel.app/api?username=k4ilham&theme=tokyonight&show_icons=true)](https://github.com/k4ilham)
+</div>
