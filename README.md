@@ -10,7 +10,7 @@ I'm a software engineer at [InerCorp]([https://woo-hoo.org](https://www.inercorp
 - Email me at [G-mail](mailto:mailham@gmail.com)
 - Youtu.be : [https://www.youtube.com/@k4ilham]
 
-<div align="center">
+<div align="left">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4ilham&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/k4ilham)
 
