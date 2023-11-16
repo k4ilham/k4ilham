@@ -1,6 +1,6 @@
 
 ### <div align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></div>  
-### <div align="center">I'm Ilham Maulana, Software Engineer 👨‍💻🎮</div>  
+### <div align="center">I'm Ilham Maulana, Software Engineer</div>  
 
 
 <br/>  
