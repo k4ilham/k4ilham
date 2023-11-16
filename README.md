@@ -1,14 +1,11 @@
 
-### <div align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></div>  
-### <div align="center">I'm Ilham Maulana, Software Engineer</div>  
-
-
-<br/>  
-
-## How To Reach Me:  
+### <div align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></div>  
+### <div align="left">I'm Ilham Maulana, Software Engineer</div>  
+### <div align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k4ilham/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://inercorp.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/k4ilham/)
+</div> 
 
 ## Tech Stack:
 
@@ -39,6 +36,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VPS](https://img.shields.io/badge/VPS-336791?style=flat&logo=virtualbox&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+
 ![Git](https://img.shields.io/badge/git-black.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
