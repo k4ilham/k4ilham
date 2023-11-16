@@ -23,13 +23,21 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-FFD43B.svg?style=flat&logo=python&logoColor=white) 
 
-
 ![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=flat&logo=mysql&logoColor=00758F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
- 
+![Web Hosting](https://img.shields.io/badge/Web%20Hosting-00C7B7?style=flat&logo=webmin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS-336791?style=flat&logo=virtualbox&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-black.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![iDempiere](https://img.shields.io/badge/iDempiere-2C3E50?style=flat&logo=idempiere&logoColor=white)
+![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-007ACC?style=flat&logo=microsoft-dynamics&logoColor=white)
+
+
 
 ## My Github Stats:
 <p>
