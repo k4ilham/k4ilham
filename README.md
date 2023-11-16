@@ -15,7 +15,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=flat&logo=mysql&logoColor=00758F)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SQL Server DBA](https://img.shields.io/badge/SQL%20Server%20DBA-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/php-AEB2D5.svg?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-F05340.svg?style=flat&logo=laravel&logoColor=white) 
