@@ -21,16 +21,11 @@
 ![Yii 2](https://img.shields.io/badge/Yii%202-1A73E8?style=flat&logo=yii&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=flat&logo=javascript&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuedotjs-41B883.svg?style=flat&logo=vue&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-FFD43B.svg?style=flat&logo=python&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4D?style=flat&logo=streamlit&logoColor=white)
 ![Web Hosting](https://img.shields.io/badge/Web%20Hosting-00C7B7?style=flat&logo=webmin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -38,9 +33,7 @@
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-black.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![iDempiere](https://img.shields.io/badge/iDempiere-2C3E50?style=flat&logo=idempiere&logoColor=white)
 ![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-007ACC?style=flat&logo=microsoft-dynamics&logoColor=white)
 
 
