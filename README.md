@@ -8,6 +8,8 @@
 [![Inercorp](https://img.shields.io/badge/Website-Inercorp-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://inercorp.com)
 [![KuliahKoding](https://img.shields.io/badge/Website-KuliahKoding-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kuliahkoding.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5566-4161)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=id&user=-abX2WEAAAAJ)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=flat-square&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/OEN-2742-2025)
 </div> 
 
 ---
