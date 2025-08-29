@@ -86,5 +86,5 @@
 [![Followers](https://img.shields.io/github/followers/k4ilham?label=Followers&style=social)](https://github.com/k4ilham?tab=followers)
 [![Stars](https://img.shields.io/github/stars/k4ilham?label=Stars&style=social)](https://github.com/k4ilham?tab=repositories&type=source)
 [![Profile](https://img.shields.io/badge/GitHub-k4ilham-black?logo=github&style=flat-square)](https://github.com/k4ilham)
-[![Top Repo](https://img.shields.io/github/languages/top/k4ilham/inercorp?style=flat-square&logo=github)](https://github.com/k4ilham/inercorp)
+[![Top Repo](https://img.shields.io/github/languages/top/k4ilham/inercorp?style=flat-square&logo=github)](https://github.com/k4ilham/blockchain-smart-contract-vote-python-flask-solodity-truffle-ganache)
 
