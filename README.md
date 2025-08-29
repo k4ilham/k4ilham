@@ -58,3 +58,42 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4ilham&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4ilham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4ilham&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4ilham&layout=compact&langs_count=8&hide_border=true"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=k4ilham&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k4ilham&theme=github" />
+</p>
+
+---
+
+## 👥 Profile Visitors  
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=k4ilham&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitors" />
+</p>
+
+---
+
+## 🚀 Dynamic Badges  
+
+[![Followers](https://img.shields.io/github/followers/k4ilham?label=Followers&style=social)](https://github.com/k4ilham?tab=followers)
+[![Stars](https://img.shields.io/github/stars/k4ilham?label=Stars&style=social)](https://github.com/k4ilham?tab=repositories&type=source)
+[![Profile](https://img.shields.io/badge/GitHub-k4ilham-black?logo=github&style=flat-square)](https://github.com/k4ilham)
+[![Top Repo](https://img.shields.io/github/languages/top/k4ilham/inercorp?style=flat-square&logo=github)](https://github.com/k4ilham/inercorp)
+
